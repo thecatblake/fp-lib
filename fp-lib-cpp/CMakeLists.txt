@@ -7,3 +7,4 @@ include_directories(${CMAKE_CURRENT_SOURCE_DIR}/)
 
 
 add_executable(play_test play_test.cpp)
+add_executable(optional_test optional_test.cpp)
